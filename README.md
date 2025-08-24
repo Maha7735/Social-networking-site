@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, <br>This is a Social networking site I make it after the course with Engineer Yarob from Tarmeez Chanel.</h2>
 
 ###
-<h4 align="center">Using: <br>JS | API | HTML | CSS</h4>
+<h4 align="center">Using: <br>JS | AXIOS | HTML | CSS</h4>
 
 ###
 
